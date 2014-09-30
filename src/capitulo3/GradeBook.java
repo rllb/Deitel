@@ -5,6 +5,7 @@ public class GradeBook {
 	private String courseName;// nome do curso para esse GradeBook
 	
 	//método para configurar o nome do curso
+	//salve
 	public void setCourseName(String name){
 		courseName = name;// armazena o nome do curso
 	}// fim do método setCourseName
