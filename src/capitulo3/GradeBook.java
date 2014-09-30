@@ -14,7 +14,7 @@ public class GradeBook {
 		return courseName;
 	}//fim do m�rotodo getCourseName
 	
-	//exibe uma mensagem  de boas-vindas para o usuário  GrandeBook 
+	//exibe uma mensagem  de boas-vindas para o usuário  GrandeBook //
 	// o curso que essa Gradebook repesenta
 	public void displayMessage(String courseName){
 		System.out.printf("Welcometo the Grade Book for \n%s!\n", getCourseName());
